@@ -28,19 +28,11 @@ An results-driven **Full-Stack Software Engineer** dedicated to building resilie
 ## 📈 Engineering Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossammohammed98&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true" alt="Hossam's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossammohammed98&theme=vue-dark" alt="Hossam's Streak Stats" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossammohammed98&theme=vue-dark&layout=compact" alt="Top Languages" height="165" />
-</p>
-
----
-
-## 🏆 Verified Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hossammohammed98&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Hossam's Trophies" />
 </p>
 
 ---
