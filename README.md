@@ -1,4 +1,4 @@
-# 💻 Full-Stack Software Engineer | Systems & Architecture
+# Full-Stack Software Engineer | Systems & Architecture
 
 <p align="center">
   <a href="https://git.io/typing-svg">
