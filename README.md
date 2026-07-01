@@ -1,5 +1,5 @@
 # 💫 About Me
-MERN Stack Developer specializing in building responsive and scalable web applications using MongoDB, Express, React, and Node.js.
+Full Stack Developer specializing in building responsive and scalable web applications using MongoDB, Express, React, and Node.js.
 
 I focus on:
 - Clean and maintainable UI
