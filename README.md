@@ -1,27 +1,82 @@
-# Full-Stack Software Engineer | Systems & Architecture
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hossam+Mohamed;;Specializing+in+MERN+%26+Next.js+Architectures;;Building+Scalable%2C+High-Performance+Web+Applications" alt="Typing SVG" />
-  </a>
+# 💻 Full-Stack Software Engineer | Systems & Architecture
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=6366F1&center=true&vCenter=true&width=600&lines=Hossam+Mohamed;;Specializing+in+MERN+%26+Next.js+Architectures;;Building+Scalable%2C+High-Performance+Web+Applications)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional--Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-mohamed-dev/)
+[![Email](https://img.shields.io/badge/Email-hossam.mohamed.abdelsamie%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossam.mohamed.abdelsamie@gmail.com)
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=hossammohammed98&label=Profile%20views&color=5f43b2&style=flat" alt="hossammohammed98" /> 
 </p>
+   
+</div>
 
 ---
 
 ## 🧑‍💻 Executive Summary
 
-An results-driven **Full-Stack Software Engineer** dedicated to building resilient, high-performance, and secure web applications. Proficient in optimizing full-stack systems, designing scalable RESTful structures, and implementing modern frontend application patterns. Focused on writing modular, self-documenting code that aligns perfectly with modern agile engineering standards.
+A results-driven **Full-Stack Software Engineer** dedicated to building resilient, high-performance, and secure web applications. Proficient in optimizing full-stack systems, designing scalable RESTful structures, and implementing modern frontend application patterns. Focused on writing modular, self-documenting code that aligns perfectly with modern agile engineering standards.
+
+- 💼 Review my professional timeline: [Updated CV/Portfolio]
+- 💬 Ask me about **MERN Stack, Next.js Architecture, RESTful APIs, & Database Design**
 
 ---
 
 ## 🛠️ Technical Matrix
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend Ecosystem** | `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js (App Router)` `Redux Toolkit` `Context API` `Tailwind CSS` `HTML5/CSS3` |
-| **Backend & Architecture** | `Node.js` `Express.js` `NestJS` `RESTful APIs` `JWT Authentication` `MVC Architecture` |
-| **Databases & Storage**| `MongoDB (Mongoose)` `MySQL` `SQLite` `Cloud Media Streaming` |
-| **DevTools & Deployment** | `Git` `GitHub` `NPM` `Vercel` `Netlify` `Figma` `Jira Agile` |
+<p align="left">  
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+  </a>  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
+  </a>  
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>  
+
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>  
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> 
+  </a>  
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+  </a>  
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>  
+</p>
 
 ---
 
@@ -44,14 +99,6 @@ An results-driven **Full-Stack Software Engineer** dedicated to building resilie
 
 ---
 
-## 🌐 Secure Communications Gateway
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossam-mohamed-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional--Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hossam.mohamed.abdelsamie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hossam.mohamed.abdelsamie%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28"/>
-  </a>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
 </p>
