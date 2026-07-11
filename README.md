@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Full-Stack Software Engineer | Systems & Architecture
+#  Full-Stack Software Engineer | Systems & Architecture
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=6366F1&center=true&vCenter=true&width=600&lines=Hossam+Mohamed;;Specializing+in+MERN+%26+Next.js+Architectures;;Building+Scalable%2C+High-Performance+Web+Applications)
 
